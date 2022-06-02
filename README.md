@@ -1,2 +1,2 @@
-# web-app-with-django
+# Web-app-with-Django
 A beginner friendly Django project
